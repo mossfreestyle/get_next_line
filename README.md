@@ -47,7 +47,7 @@ Get Next Line (GNL) est une fonction qui lit un fichier descripteur ligne par li
 
 ```bash
 # Cloner le projet
-git clone https://github.com/votre-username/get_next_line.git
+git clone https://github.com/mossfreestyle/get_next_line.git
 cd get_next_line
 
 # Compiler avec votre projet
